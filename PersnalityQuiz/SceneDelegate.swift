@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PersnalityQuiz
 //
-//  Created by irene.0421 on 2021/11/18.
+//  Created by yongseok on 2021/11/18.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  Question.swift
 //  PersnalityQuiz
 //
-//  Created by irene.0421 on 2021/11/19.
+//  Created by yongseok on 2021/11/19.
 //
 
 import Foundation
@@ -34,7 +34,7 @@ enum AnimalType: Character {
         case .rabbit:
             return "You are a rabbit."
         case .turtle:
-            return "You are a turtle."
+            return "You are a turtle. You are so slow"
         }
     }
 }
